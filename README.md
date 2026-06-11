@@ -1,3 +1,33 @@
+```markdown
+<div align="center">
+
+# 🚀 E-Inventory Web Application  
+### UAS Pemrograman Web 2 - Decoupled Architecture Project
+
+<img src="https://img.shields.io/badge/Project-UAS%20Web%202-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer-Aflah%20Athallah-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NIM-312410280-orange?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend-CodeIgniter%204-red?style=flat-square&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-VueJS%203-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/UI-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/API-RESTful-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Auth-Bearer%20Token-yellow?style=flat-square" />
+
+<br><br>
+
+> Sistem Manajemen Inventaris Barang berbasis **CodeIgniter 4 RESTful API** dan **VueJS 3 SPA**  
+> dengan fitur login admin, token authentication, dashboard, dan CRUD data barang.
+
+</div>
+
+---
+```
+
 # UAS Pemrograman Web 2
 
 ## Sistem Manajemen Inventaris Barang (E-Inventory)
