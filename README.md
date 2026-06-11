@@ -28,10 +28,17 @@
 
 ## Sistem Manajemen Inventaris Barang (E-Inventory)
 
-Nama: **Aflah Athallah**
-NIM: **312410280**
-Mata Kuliah: **Pemrograman Web 2**
-Jenis Tugas: **Ujian Akhir Semester (UAS) - Proyek Akhir**
+## 🧑‍💻 Developer Profile
+
+| Information      | Detail                                    |
+| ---------------- | ----------------------------------------- |
+| **Name**         | Aflah Athallah                            |
+| **Student ID**   | 312410280                                 |
+| **Course**       | Pemrograman Web 2                         |
+| **Assignment**   | Ujian Akhir Semester (UAS) - Proyek Akhir |
+| **Project**      | Sistem Manajemen Inventaris Barang        |
+| **Architecture** | Decoupled Architecture                    |
+| **Role**         | Fullstack Web Developer                   |
 
 ---
 
@@ -758,3 +765,30 @@ Fitur yang sudah berjalan:
 
 ```
 ```
+
+---
+
+<div align="center">
+
+## 👨‍💻 Developed By
+
+<img src="https://img.shields.io/badge/Aflah%20Athallah-Fullstack%20Web%20Developer-blueviolet?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CodeIgniter%204-Backend%20API-red?style=flat-square&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/VueJS%203-Frontend%20SPA-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-Modern%20UI-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+<br><br>
+
+**UAS Pemrograman Web 2**  
+**Universitas Pelita Bangsa**  
+**2026**
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-PHP%20%7C%20VueJS%20%7C%20MySQL%20%7C%20TailwindCSS-success?style=for-the-badge" />
+
+</div>
