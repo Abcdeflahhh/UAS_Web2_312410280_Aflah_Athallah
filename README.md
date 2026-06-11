@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🚀 E-Inventory Web Application  
@@ -24,9 +23,6 @@
 > dengan fitur login admin, token authentication, dashboard, dan CRUD data barang.
 
 </div>
-
----
-```
 
 # UAS Pemrograman Web 2
 
