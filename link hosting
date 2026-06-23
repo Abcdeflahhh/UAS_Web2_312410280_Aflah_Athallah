@@ -1,0 +1,35 @@
+# Informasi Hosting Aplikasi UAS Web 2
+
+## URL Hosting
+
+https://uas-web2-aflahathallah.vercel.app
+
+## Halaman Login
+
+https://uas-web2-aflahathallah.vercel.app/#/login
+
+## Halaman Dashboard
+
+https://uas-web2-aflahathallah.vercel.app/#/dashboard
+
+## Informasi Akun Administrator
+
+* **Username** : admin
+* **Email** : [admin@uasweb2.com](mailto:admin@uasweb2.com)
+* **Password** : Admin123!
+
+## Informasi Akun Pengguna
+
+* **Username** : user
+* **Email** : [user@uasweb2.com](mailto:user@uasweb2.com)
+* **Password** : User123!
+
+## Informasi Database
+
+* **Database** : db_uas_web2
+* **Server** : localhost
+* **Port** : 3306
+
+## Keterangan
+
+Aplikasi Single Page Application (SPA) UAS Web 2 telah berhasil diimplementasikan dan dihosting sehingga dapat diakses melalui internet. Sistem menyediakan fitur autentikasi pengguna, manajemen data, dan dashboard informasi. Pengujian login berhasil dilakukan menggunakan akun administrator maupun akun pengguna yang telah disediakan.
